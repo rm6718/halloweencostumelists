@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Hufflepuff Costume",
+    "cost": 45.61,
+    "category": "Harry Potter",
+    "lastUsed": 1339560000000,
+    "count": 1,
+    "props": [
+      {
+        "name": "Wand"
+      }
+    ],
+    "clothingItems": [
+      {
+        "id": 1,
+        "name": "House Tie",
+        "color": "Yellow and Black",
+        "size": "small",
+        "category": "Tie"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "name": "Death Eater Costume",
+    "cost": 39.43,
+    "category": "Harry Potter",
+    "lastUsed": 1414770571520,
+    "count": 2,
+    "props": [],
+    "clothingItems": [],
+    "id": 2
+  },
+  {
+    "name": "Killer Frost",
+    "cost": 57.89,
+    "category": "Superheroes",
+    "lastUsed": 1383237997398,
+    "count": 1,
+    "props": [],
+    "clothingItems": [],
+    "id": 3
+  }
+]
